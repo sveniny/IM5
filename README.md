@@ -1,6 +1,6 @@
 # Visual Odyssey
 
-Die Website bietet eine strukturierte Präsentation von Bildergalerien in drei Hauptabschnitten:
+Die Wensite ist in 3 Sektionen unterteilt. 
 
 Sektion 1 
 Im ersten Abschnitt befindet sich eine dynamische Bildergalerie, die in drei Spalten aufgeteilt ist. Durch den Einsatz von Scroll-Animationen wird die Interaktivität für die Nutzende erhöht.
