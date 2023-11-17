@@ -25,7 +25,7 @@ Mein persönliches Ziel war das horizontale Scrollen besser kennen zu lernen. Un
 
 Quellen:
 
-https://validator.w3.org
+https://validator.w3.org <br>
 https://jigsaw.w3.org/css-validator/
 https://chat.openai.com
 
